@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anmeldung</title>¨
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    <link rel="stylesheet" href="./login.css" />
+</head>
+<body>
+    <div class="login-form">
+        <div class="text">
+            Anmeldung
+        </div>
+        <form>
+            <div class="field">
+            <div class="fas fa-envelope"></div>
+            <input type="text" placeholder="Email or Phone">
+            </div>
+            <div class="field">
+            <div class="fas fa-lock"></div>
+            <input type="password" placeholder="Password">
+            </div>
+            <a href="./index.html" id="loginbut">LOGIN</a>
+        </form>
+
+        <script>
+</script>
+</body>
+</html>
